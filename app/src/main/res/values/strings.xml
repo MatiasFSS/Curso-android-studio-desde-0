@@ -1,0 +1,58 @@
+<resources>
+    <!--IMC APP-->
+    <string name="app_name">AndroidMaster</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Re-Calcular</string>
+
+    <string name="error">Error</string>
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estás por debajo de lo optimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estás en el optimo para tu peso y altura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estás por encima de lo optimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estás MUY por encima de lo optimo para tu peso y altura</string>
+
+
+    <!--TODO APP-->
+
+    <string name="todo_title">Bienvenido, Matias</string>
+    <string name="todo_categorias">Categorias</string>
+    <string name="todo_tasks">Tareas</string>
+
+    <string name="todo_dialog_add_task">Añade una Tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_add_task_button">Crear Tarea</string>
+    <string name="title_activity_super_hero_list">SuperHeroListActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Settings -->
+    <string name="setting_title_DarkMode">Modo oscuro</string>
+    <string name="setting_description_DarkMode">Activa el modo oscuro para un cambio visual</string>
+    <string name="setting_title_Bluetooth">Activar Bluetooth</string>
+    <string name="setting_description_Bluetooth">Conecta perifericos sin cables</string>
+    <string name="setting_title_vibration">Vibrar en las llamadas</string>
+    <string name="setting_title_Volumen">Activar volumen</string>
+
+
+
+</resources>
